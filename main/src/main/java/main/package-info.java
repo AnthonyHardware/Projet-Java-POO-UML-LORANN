@@ -7,4 +7,5 @@
 
 /* C'est un test */
 /* test x2 */
+/*test3*/
 package main;
