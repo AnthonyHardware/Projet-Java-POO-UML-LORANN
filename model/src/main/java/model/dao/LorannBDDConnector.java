@@ -24,7 +24,7 @@ final class LorannBDDConnector {
     private static String                  password = "";
 
     /** The url. */
-    private static String                  url      = "jdbc:mysql://localhost/lorann?useSSL=false&serverTimezone=UTC";
+    private static String                  url      = "C:\\wamp\\bin\\mysql\\mysql5.7.21\\data\\lorenn";
 
     /** The connection. */
     private Connection                     connection;
