@@ -6,5 +6,6 @@ package controller;
  * @author Jean-Aymeric DIET jadiet@cesi.fr
  * @version 1.0
  */
+/*test*/
 public interface IController {
 }
