@@ -24,7 +24,7 @@ final class LorannBDDConnector {
     private static String                  password = "";
 
     /** The url. */
-    private static String                  url      = "C:\\wamp\\bin\\mysql\\mysql5.7.21\\data\\lorenn";
+    private static String                  url      = "http://127.0.0.1/phpmyadmin/db_structure.php?db=&token=d1b7229829fb576c8e2bf0e812170185&db=lorenn";
 
     /** The connection. */
     private Connection                     connection;
