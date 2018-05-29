@@ -21,10 +21,10 @@ final class LorannBDDConnector {
     private static String                  user     = "root";
 
     /** The password. */
-    private static String                  password = "password";
+    private static String                  password = "";
 
     /** The url. */
-    private static String                  url      = "http://127.0.0.1/phpmyadmin/db_structure.php?db=&token=d1b7229829fb576c8e2bf0e812170185&db=lorenn";
+    private static String                  url      = "jbdc:mysql://mysql/lorenn";
 
     /** The connection. */
     private Connection                     connection;
